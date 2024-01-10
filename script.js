@@ -9,7 +9,7 @@ noButton.addEventListener("mouseover", () => {
 });
 
 yesButton.addEventListener("click", () => {
-    console.log("Finally Clicked On Yes");
+    console.log("Arohi saying I Love You");
     popup.style.display = "block";
 });
 
